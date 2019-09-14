@@ -1,0 +1,22 @@
+#titre {
+	font-size: 100px;
+    font-family: "";
+    color: black;
+    text-decoration: none;
+    line-height: 650px;
+	padding: 0;
+    position: absolute;
+    right: 690px;
+    bottom: 300px;
+}
+
+#texte {
+	line-height: px;
+	padding: 0;
+    position: fixed;
+    right: 333px;
+	left: 333px
+    bottom: 555px;
+	text-align: center;
+}
+

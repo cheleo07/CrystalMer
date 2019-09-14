@@ -1,0 +1,37 @@
+#titre {
+	font-size: 150px;
+	left: 450px;
+	position: absolute;
+	top: -150px;
+	font-family: "Microsoft Yi Baiti";
+
+}
+
+#texte {
+	position: absolute;
+	top: 200px;
+	margin-right: 5px;
+	margin-left: 5px;
+	font-size: 20px;
+    line-height:30px;
+    text-align: center;
+
+}
+
+body{
+	background-color: #F4FEFE;
+}
+
+#coco {
+	position: absolute;
+	top: 550px;
+	left: 230px;
+	border: 3px black groove;
+	border-radius: 10px;
+}
+
+#espace {
+	position: absolute;
+	top: 1500px;
+	color: #F4FEFE;
+}

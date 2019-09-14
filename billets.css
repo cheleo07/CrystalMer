@@ -1,0 +1,154 @@
+body{
+    background: url('beach.jpg') no-repeat;
+    background-size: cover;
+}
+
+#titre {
+	font-size: 150px;
+	left: 420px;
+	position: absolute;
+	top: -100px;
+	font-family: "Microsoft Yi Baiti";
+}
+
+#texte {
+	position: absolute;
+	font-size: 40px;
+	margin-left: 50px;
+	margin-right: 50px;
+	left: 450px;
+	top: 185px;
+	font-family: "Microsoft Yi Baiti";
+}
+
+#dates {
+	position: absolute;
+	left: -126px;
+	top: 420px;
+	border: none;
+	border-radius: 10px;
+}
+
+@font-face {
+    font-family: 'sheilazain_demoregular';
+    src: url('font/sheilazain_demo-webfont.woff2') format('woff2'),
+         url('font/sheilazain_demo-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+	background-color: #F4FEFE;
+
+}
+
+#confort {
+	position: absolute;
+	font-size: 100px;
+	left: 150px;
+	top: 330px;
+	font-family: 'sheilazain_demoregular';
+	z-index: 100;
+}
+
+#prix1 {
+	position: absolute;
+	font-size: 50px;
+	left: 130px;
+	top: 550px;
+	z-index: 100;
+	font-family: "Microsoft Yi Baiti";
+	font-weight: bold;
+}
+
+#crystal {
+	position: absolute;
+	font-size: 100px;
+	left: 780px;
+	top: 330px;
+	font-family: 'sheilazain_demoregular';
+	z-index: 100;
+}
+
+#prix2 {
+	position: absolute;
+	font-size: 50px;
+	left: 780px;
+	top: 550px;
+	z-index: 100;
+	font-family: "Microsoft Yi Baiti";
+	font-weight: bold;
+}
+
+#diamond {
+	position: absolute;
+	font-size: 100px;
+	left: 1480px;
+	top: 330px;
+	font-family: 'sheilazain_demoregular';
+	z-index: 100;
+}
+
+#prix3 {
+	position: absolute;
+	font-size: 50px;
+	left: 1480px;
+	top: 550px;
+	z-index: 100;
+	font-family: "Microsoft Yi Baiti";
+	font-weight: bold;
+}
+
+
+#pr {
+	position: absolute;
+	top: 800px;
+
+}
+
+#pr2 {
+	position: absolute;
+	top: 780px;
+
+}
+
+td:hover {
+        background-color: #ccffff;
+    }
+
+tr {
+	border: 3px black groove;
+}
+
+td {
+	border: 3px black groove;
+}
+
+
+.im1 {
+	border: 3px black groove;
+	-webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -ms-filter: blur(5px);
+    -o-filter: blur(5px);
+    filter: blur(5px);
+}
+
+.im2 {
+	border: 3px black groove;
+	-webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -ms-filter: blur(5px);
+    -o-filter: blur(5px);
+    filter: blur(5px);
+}
+
+
+.im3 {
+	border: 3px black groove;
+	-webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -ms-filter: blur(5px);
+    -o-filter: blur(5px);
+    filter: blur(5px);
+}

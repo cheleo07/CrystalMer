@@ -1,0 +1,116 @@
+body{
+    background: url('Capture.png') no-repeat;
+    background-size: cover;
+}
+
+#menu li:hover{
+background: white;
+}
+
+#menu ul{
+    margin : auto;
+    width : 800px;
+    position: absolute;
+    right: 555px;
+    bottom: 50px;
+}
+
+#menu a{
+font-size: 50px;
+font-family: "Microsoft Yi Baiti";
+color: black;
+text-decoration: none;
+line-height: 50px;
+}
+
+#menu li{
+    margin-right: 10px;
+    padding: 4.8px;
+    line-height: 25.6px;
+	list-style: none;
+    background: #ccffff;
+    width: 800px;
+    height: 85px;
+    text-align: center;
+}
+
+#menu_titre ul{
+    margin : auto;
+    width : 800px;
+	padding: 0;
+    position: absolute;
+    right: 555px;
+    bottom: 330px;
+}
+
+#menu_titre a{
+	font-size: 100px;
+    font-family: "Microsoft Yi Baiti";
+    color: black;
+    text-decoration: none;
+    line-height: 50px;
+}
+#menu_titre li{
+    margin-right: 10px;
+    padding: 4.8px;
+    line-height: 25.6px;
+	list-style: none;
+    background: #ccffff;
+    width: 800px;
+    height: 85px;
+    text-align: center;
+}
+
+#medito {
+    font-size: 180px;
+    font-family: "melony";
+    color: black;
+    text-decoration: none;
+    line-height: 50px;
+    position: absolute;
+    right: 255px;
+    bottom: 600px;
+}
+
+@font-face {
+    font-family: 'mellony_dry_brushregular';
+    src: url('font2/mellony_dry_brush-webfont.woff2') format('woff2'),
+         url('font2/mellony_dry_brush-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.font2{font-family: 'mellony_dry_brushregular';}
+
+#par{
+    font-size: 50px;
+    font-family: "Microsoft Yi Baiti";
+    color: black;
+    text-decoration: none;
+    line-height: 50px;
+    position: absolute;
+    right: 1120px;
+    bottom: 570px;
+}
+
+#crysto{
+    font-size: 100px;
+    font-family: "Microsoft Yi Baiti";
+    color: black;
+    text-decoration: none;
+    line-height: 50px;
+    position: absolute;
+    right: 900px;
+    bottom: 470px;
+}
+
+@font-face {
+    font-family: 'sheilazain_demoregular';
+    src: url('font/sheilazain_demo-webfont.woff2') format('woff2'),
+         url('font/sheilazain_demo-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.font{font-family: 'sheilazain_demoregular';}
